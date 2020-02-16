@@ -1,0 +1,12 @@
+#!/bin/bash
+# 
+# Python Script to find Movies (.ts) on Enigma2 settopboxes and get the relevant information 
+# *** COPY THIS FILSE TO /usr/bin ***
+#
+python /usr/local/findts/findts.py $1 $2 $3 $4 $5 $6
+
+
+
+
+
+
